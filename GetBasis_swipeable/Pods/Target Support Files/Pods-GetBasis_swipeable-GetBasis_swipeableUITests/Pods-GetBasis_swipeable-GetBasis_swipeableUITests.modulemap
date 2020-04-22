@@ -1,0 +1,6 @@
+framework module Pods_GetBasis_swipeable_GetBasis_swipeableUITests {
+  umbrella header "Pods-GetBasis_swipeable-GetBasis_swipeableUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

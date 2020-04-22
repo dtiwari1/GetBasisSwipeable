@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_GetBasis_swipeable_GetBasis_swipeableUITests : NSObject
+@end
+@implementation PodsDummy_Pods_GetBasis_swipeable_GetBasis_swipeableUITests
+@end
