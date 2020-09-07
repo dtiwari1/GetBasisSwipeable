@@ -4,7 +4,7 @@
 
 Purpose
 --------------
-I am creating this project for my job interview task for GetBasis company. The purpose of the task was to create a similar app to Google Primer app.
+The purpose of the task was to create a similar app to Google Primer app.
 
 ## Features
 * Smooth user interface.
